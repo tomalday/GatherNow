@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>GatherNow</name>
+        <order>160</order>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-04-09 03:51:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>0a0a2d2e6f111b00883f06267b3ee48c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GatherNow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+        <sys_update_name>sys_app_application_0a0a2d2e6f111b00883f06267b3ee48c</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-04-09 04:42:22</sys_updated_on>
+        <title>GatherNow</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

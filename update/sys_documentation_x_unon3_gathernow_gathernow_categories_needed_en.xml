@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="categories_needed" label="Categories Needed?" language="en" table="x_unon3_gathernow_gathernow">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>categories_needed</element>
+            <help>Are categories required for this app?</help>
+            <hint/>
+            <label>Categories Needed?</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <plural>Categories Needed?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 03:59:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>cdcbed6e6f111b00883f06267b3ee4f2</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Categories Needed?</sys_name>
+            <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+            <sys_update_name>sys_documentation_x_unon3_gathernow_gathernow_categories_needed_en</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 04:05:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

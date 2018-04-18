@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>GatherNow activity formatter fields</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.ui.x_unon3_gathernow_gathernow_activity.fields</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-04-09 04:41:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ba7539e26f511b00883f06267b3ee47b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.x_unon3_gathernow_gathernow_activity.fields</sys_name>
+        <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+        <sys_update_name>sys_properties_ba7539e26f511b00883f06267b3ee47b</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-04-09 04:41:34</sys_updated_on>
+        <type>string</type>
+        <value>work_notes,contact,department,project,estimated_hours</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba7539e26f511b00883f06267b3ee47b"/>
+</record_update>

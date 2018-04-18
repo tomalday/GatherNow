@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>list_internal_emails</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-04-09 04:25:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d8c1f5a26f511b00883f06267b3ee470</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list_internal_emails</sys_name>
+        <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d8c1f5a26f511b00883f06267b3ee470</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-04-09 04:25:27</sys_updated_on>
+        <table>x_unon3_gathernow_gathernow</table>
+        <ui_policy display_value="Show Internal email field">47b13d226f511b00883f06267b3ee4e7</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

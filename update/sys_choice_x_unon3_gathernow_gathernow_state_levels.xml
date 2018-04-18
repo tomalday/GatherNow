@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state_levels" table="x_unon3_gathernow_gathernow" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>1</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:44:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c12b39fe6f591b00883f06267b3ee488</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:44:56</sys_updated_on>
+            <value>New</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>2</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:45:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>214b7dfe6f591b00883f06267b3ee490</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:45:32</sys_updated_on>
+            <value>Open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unassigned</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>3</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:45:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6f5bb1fe6f591b00883f06267b3ee49c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:45:46</sys_updated_on>
+            <value>Unassigned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assigned</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>4</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:45:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>766bbdfe6f591b00883f06267b3ee464</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:45:59</sys_updated_on>
+            <value>Assigned</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work In Progress</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>5</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:46:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3a7bbdfe6f591b00883f06267b3ee4b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:46:16</sys_updated_on>
+            <value>Work in Progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On Hold</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>6</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:46:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>678bb5fe6f591b00883f06267b3ee41d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:46:35</sys_updated_on>
+            <value>On Hold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>7</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:46:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>429bbdfe6f591b00883f06267b3ee4b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:46:46</sys_updated_on>
+            <value>Pending</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Awaiting Approval</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>8</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>72ab7dfe6f591b00883f06267b3ee482</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:47:05</sys_updated_on>
+            <value>Awaiting Approval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>9</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:47:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>39bb31326f991b00883f06267b3ee4e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:47:18</sys_updated_on>
+            <value>Resolved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state_levels</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>10</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:47:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d0cb31326f991b00883f06267b3ee44c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:47:32</sys_updated_on>
+            <value>Closed</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state_levels</element>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:44:56</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>172bfdbe6f591b00883f06267b3ee413</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state_levels</sys_name>
+            <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+            <sys_update_name>sys_choice_x_unon3_gathernow_gathernow_state_levels</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:44:56</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="include_attachments_in_closing_email" label="Include attachments in closing email?" language="en" table="x_unon3_gathernow_gathernow">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>include_attachments_in_closing_email</element>
+            <help/>
+            <hint/>
+            <label>Include attachments in closing email?</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <plural>Include attachments in closing email?s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:37:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3589f9be6f591b00883f06267b3ee420</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Include attachments in closing email?</sys_name>
+            <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+            <sys_update_name>sys_documentation_x_unon3_gathernow_gathernow_include_attachments_in_closing_email_en</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:37:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

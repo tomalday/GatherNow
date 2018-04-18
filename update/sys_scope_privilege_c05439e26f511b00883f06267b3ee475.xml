@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>taalday</sys_created_by>
+        <sys_created_on>2018-04-09 04:36:28</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c05439e26f511b00883f06267b3ee475</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SysRelatedList</sys_name>
+        <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+        <sys_update_name>sys_scope_privilege_c05439e26f511b00883f06267b3ee475</sys_update_name>
+        <sys_updated_by>taalday</sys_updated_by>
+        <sys_updated_on>2018-04-09 04:36:28</sys_updated_on>
+        <target_name>SysRelatedList</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>

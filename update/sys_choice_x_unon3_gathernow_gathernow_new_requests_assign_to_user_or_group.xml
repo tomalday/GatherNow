@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="new_requests_assign_to_user_or_group" table="x_unon3_gathernow_gathernow" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>new_requests_assign_to_user_or_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Specific User</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>0</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:51:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>11cc31326f991b00883f06267b3ee4f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:51:54</sys_updated_on>
+            <value>Specific User</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>new_requests_assign_to_user_or_group</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>An Assignment Group</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>1</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:51:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>51cc31326f991b00883f06267b3ee4f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:51:54</sys_updated_on>
+            <value>An Assignment Group</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>new_requests_assign_to_user_or_group</element>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 23:51:54</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1dcc31326f991b00883f06267b3ee4f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>new_requests_assign_to_user_or_group</sys_name>
+            <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+            <sys_update_name>sys_choice_x_unon3_gathernow_gathernow_new_requests_assign_to_user_or_group</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 23:51:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

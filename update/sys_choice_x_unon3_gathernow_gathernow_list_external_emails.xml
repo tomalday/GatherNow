@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="list_external_emails" table="x_unon3_gathernow_gathernow" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>list_external_emails</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email on submit</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>1</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 04:06:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>467d6dee6f111b00883f06267b3ee418</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 04:09:34</sys_updated_on>
+            <value>Email on submit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>list_external_emails</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email when commented</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>2</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 04:07:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4fad65ee6f111b00883f06267b3ee488</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 04:09:12</sys_updated_on>
+            <value>Email when commented</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>list_external_emails</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Email on close</label>
+            <language>en</language>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sequence>3</sequence>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 04:07:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>3e9d69ee6f111b00883f06267b3ee482</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 04:09:24</sys_updated_on>
+            <value>Email on close</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>list_external_emails</element>
+            <name>x_unon3_gathernow_gathernow</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>taalday</sys_created_by>
+            <sys_created_on>2018-04-09 04:06:59</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>0c9d6dee6f111b00883f06267b3ee4c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>list_external_emails</sys_name>
+            <sys_package display_value="GatherNow" source="x_unon3_gathernow">8a0aa1a26f111b00883f06267b3ee46b</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GatherNow">8a0aa1a26f111b00883f06267b3ee46b</sys_scope>
+            <sys_update_name>sys_choice_x_unon3_gathernow_gathernow_list_external_emails</sys_update_name>
+            <sys_updated_by>taalday</sys_updated_by>
+            <sys_updated_on>2018-04-09 04:06:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

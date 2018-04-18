@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="GatherNow" max_length="40" name="x_unon3_gathernow_gathernow" sizeclass="1" type="collection">
+        <element label="Assigned User" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
+        <element label="Assignment Group needed?" max_length="40" name="assignment_group_needed" type="boolean"/>
+        <element label="Categories Needed?" max_length="40" name="categories_needed" type="boolean"/>
+        <element label="Contact" max_length="32" name="contact" reference="sys_user" type="reference"/>
+        <element label="Contact to provide list?" max_length="40" name="contact_to_provide_list" type="boolean"/>
+        <element label="Department" max_length="32" name="department" reference="cmn_department" type="reference"/>
+        <element label="Estimated Hours" max_length="40" name="estimated_hours" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Explain automated flow" max_length="1000" name="explain_automated_flow" type="string"/>
+        <element label="External Emails?" max_length="40" name="external_emails" type="boolean"/>
+        <element label="Group members" max_length="4000" name="group_members" reference="sys_user" type="glide_list"/>
+        <element label="Include attachments in closing email?" max_length="40" name="include_attachments_in_closing_email" type="boolean"/>
+        <element label="Internal emails?" max_length="40" name="internal_emails" type="boolean"/>
+        <element label="Limitations on Service Catalog submission?" max_length="4000" name="limitations_on_service_catalog_submission" reference="user_criteria" type="glide_list"/>
+        <element label="List External Emails" max_length="4000" name="list_external_emails" type="glide_list"/>
+        <element label="List Internal Emails" max_length="4000" name="list_internal_emails" type="glide_list"/>
+        <element label="List Urgency levels" max_length="500" name="list_urgency_levels" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Requests assign to User or Group?" max_length="40" name="new_requests_assign_to_user_or_group" type="string">
+            <choice>
+                <element label="Specific User" sequence="0" value="Specific User"/>
+                <element label="An Assignment Group" sequence="1" value="An Assignment Group"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Possible categories discussed" max_length="1000" name="possible_categories_discussed" type="string"/>
+        <element label="Project" max_length="40" name="project" type="boolean"/>
+        <element label="Service Catalog availability?" max_length="40" name="service_catalog_availability" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State flow movement" max_length="40" name="state_flow_movement" type="string">
+            <choice>
+                <element label="Manual" sequence="1" value="Manual"/>
+                <element label="Workflow/BR driven" sequence="2" value="Workflow/BR driven"/>
+            </choice>
+        </element>
+        <element label="State Levels" max_length="4000" name="state_levels" type="glide_list"/>
+        <element label="Urgency levels required?" max_length="40" name="urgency_levels_required" type="boolean"/>
+    </element>
+</database>
