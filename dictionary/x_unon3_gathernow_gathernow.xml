@@ -10,6 +10,7 @@
         <element label="Estimated Hours" max_length="40" name="estimated_hours" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Explain automated flow" max_length="1000" name="explain_automated_flow" type="string"/>
         <element label="External Emails?" max_length="40" name="external_emails" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Goals" max_length="4000" name="goals" type="string"/>
         <element label="Group members" max_length="4000" name="group_members" reference="sys_user" type="glide_list"/>
         <element label="Include attachments in closing email?" max_length="40" name="include_attachments_in_closing_email" type="boolean"/>
         <element label="Internal emails?" max_length="40" name="internal_emails" type="boolean"/>
@@ -23,6 +24,7 @@
                 <element label="An Assignment Group" sequence="1" value="An Assignment Group"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Pain points" max_length="4000" name="pain_points" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Possible categories discussed" max_length="1000" name="possible_categories_discussed" type="string"/>
         <element label="Project" max_length="40" name="project" type="boolean"/>
         <element label="Service Catalog availability?" max_length="40" name="service_catalog_availability" type="boolean"/>
